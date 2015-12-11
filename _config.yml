@@ -1,0 +1,11 @@
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: InnoDB.io
+url: http://blog.innodb.io
+feed: /atom.xml
+author_info: <a href="http://blog.innodb.io/">Sanyu</a>
