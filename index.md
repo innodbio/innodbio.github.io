@@ -20,8 +20,6 @@ layout: home
             </li>
         {% endfor %}
         </ul>
-<!-- 
     <div class="aside">
     </div>
--->
 </div>
